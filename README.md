@@ -1,19 +1,4 @@
-  <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-  <p align="center">
-    <a href="https://rg-portfolio.netlify.com/">
-      <img alt="rg-portfolio" src="https://github.com/rohitguptab/rg-portfolio/blob/master/src/images/fev_icon.png" width="50" />
-    </a>
-  </p>
-  <h1 align="center">
-    RG-Portfolio
-  </h1>
-  <img src="https://github.com/rohitguptab/rg-portfolio/blob/master/docs/screenshot.jpg" />
-
 Kick-off your Portfolio website with RG-Portfolio gatsby starter. We have used [Gatsby](https://www.gatsbyjs.org/) + [Contenful](https://www.gatsbyjs.org/packages/gatsby-source-contentful/?=Contenful).
-
-### Live Demo:
-
-https://rg-portfolio.netlify.com/
 
 ### Feature:
 
